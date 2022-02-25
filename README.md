@@ -1,6 +1,6 @@
 ## Sources
- [Part 1 Contract](https://dev.to/kevinmaarek/getting-started-with-solidity-your-first-smart-contract-3mpe)
- [Part 2 Testing](https://dev.to/kevinmaarek/testing-your-smart-contract-with-truffle-3g6f)
+ [Part 1 Contract](https://dev.to/kevinmaarek/getting-started-with-solidity-your-first-smart-contract-3mpe) <br>
+ [Part 2 Testing](https://dev.to/kevinmaarek/testing-your-smart-contract-with-truffle-3g6f) <br>
  [Part 3 Deployment](https://dev.to/kevinmaarek/deploy-your-smart-contracts-with-truffle-1igl)
 
 ## Dependencies
