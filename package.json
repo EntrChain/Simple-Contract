@@ -1,5 +1,30 @@
 {
   "dependencies": {
     "truffle-hdwallet-provider": "^1.0.17"
-  }
+  },
+  "name": "simple-contract",
+  "description": "[Part 1 Contract](https://dev.to/kevinmaarek/getting-started-with-solidity-your-first-smart-contract-3mpe) <br>\r  [Part 2 Testing](https://dev.to/kevinmaarek/testing-your-smart-contract-with-truffle-3g6f) <br>\r  [Part 3 Deployment](https://dev.to/kevinmaarek/deploy-your-smart-contracts-with-truffle-1igl)",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EntrChain/Simple-Contract.git"
+  },
+  "keywords": [
+    "solidity",
+    "smartcontract"
+  ],
+  "author": "selimaytac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EntrChain/Simple-Contract/issues"
+  },
+  "homepage": "https://github.com/EntrChain/Simple-Contract#readme"
 }
